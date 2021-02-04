@@ -30,7 +30,6 @@ body {
     background-image: url(../img/slider-img.jpg);
     background-repeat: no-repeat;
     background-position: top;
-    /*для кружочков "пагинации" слайдера */
     position: relative;
 }
 
